@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Okins Group globe O logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55c878"/><stop offset="1" stop-color="#075c2b"/></linearGradient></defs>
+<circle cx="80" cy="80" r="66" fill="none" stroke="#111827" stroke-width="13"/>
+<circle cx="80" cy="80" r="51" fill="#eaf6ed" stroke="url(#g)" stroke-width="5"/>
+<path d="M48 57l15-14 15 5 8 13-8 9-4 14-13 7-13-11-7-12zM93 43l17 8 8 15-9 10-14-4-7-13zM83 91l14-7 17 7-5 19-18 12-14-12z" fill="#16803c"/>
+<path d="M12 92c29 24 91 34 136-4" fill="none" stroke="#65bd45" stroke-width="12" stroke-linecap="round"/>
+<path d="M18 67c34-35 91-46 126-14" fill="none" stroke="#a7d7b2" stroke-width="4" stroke-linecap="round"/>
+</svg>
